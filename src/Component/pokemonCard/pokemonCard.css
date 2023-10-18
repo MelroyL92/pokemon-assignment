@@ -1,0 +1,14 @@
+.parent-container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.pokemonCard {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 10vw;
+    margin: 1px;
+}
